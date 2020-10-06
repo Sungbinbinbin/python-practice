@@ -1,14 +1,39 @@
-# 제목 
-## 제목2
-### 제목3
+# 요즘 대세 아이돌 있지에 대하여
 
-_굵게_   __기울기__
+1. 있지 
+![있지](https://ww.namu.la/s/8a1a77bf2204ce04234772d5c69be8ac06e304a12c8d18568a18071207e550ccf55ae2d087605727c57f3c9262138c714b6557afb8d0820dc580fe63edf46bf17514d16fb597e51b7003da2b97bdae036e0dff61fceb08e1c1c2907c1dd958cf941c1ce641910d30a5c22cf00cbf43b6)
 
-`강조`
-1. 첫 항목
-2. 둘쨰 항목
+## 개요
++ ITZY는 JYP엔터테인먼트가 TWICE 이후로 3년 4개월만에 내놓은 5인조 걸그룹이다. 원더걸스 - miss A - TWICE의 JYP 걸그룹 명가 계보를 이어나간 만큼 데뷔 전부터 기대가 많았다. 2019년 1월 21일 0시에 데뷔 티저가 공개되었고, 같은 해 2월 12일에 정식 데뷔하였다. 
 
-+ 순서 없는 것
+## 맴버
 
-[링크1](https://www.google.com/search?q=rn&oq=rn&aqs=chrome..69i57j0j69i59j0l2j69i60l3.915j1j7&sourceid=chrome&ie=UTF-8)
-![사과](https://lh3.googleusercontent.com/proxy/DUi2if-fCCFMhCHQyiW-ogjPQlRcKy2X3VzF_y_XLqGtQ0ow2qonPskqjd-ZG0tEAwDOX6P5gxZD8rKvS_7_zBl19TCrsYkIoZQzV41fUVu6hZ-DvsLbmhu8LGXMd9Ot34xSJPiVr9igAucUskzbKllhCbU2_8MDTz2FXbb4nZlaw5rtPr2lRqqfvTbwyBcX7Xlz08JXvUzSwxkGAWeUaWmCxONiq37MpY6xasC5Laxb9sH9cUpKlDx8an34djsvt4K3ao3YDB6B9fDYSIgRDGm948WjZn60zMpRZhIwJtZSMk2fYsa8kLINU20)
+### 예지 
+
+![예지](https://w.namu.la/s/39188f917fcac5023c67612797483733dc27fa3c2386509058350cefd61dedd23ad3f98e8c7d52ed4f4216611a867677bb594eb20b063fd358b47d30e03f35f46abae90017ec4d6d2dfa30f2baa9011b56a1774135bf052965b4353043ba3f10)
+
++ ITZY의 카리스마 리더로, 막내의 장난을 잘 받아주는 착한 언니로, 무대에서는 팀의 시그니처 포즈인 왕관에 어울리는 왕과 같은 멋지고 품위있는 모습으로 팔레트 같은 매력을 보여주는 중이다.
+
+### 리아
+
+![리아](https://w.namu.la/s/eb8ad14adbe8b00f447365ddeca351b363225b5145659a44929ec8e609671522265fded95fcda3639b4b6791ef53ef86f9d8e0331ecdda274902553cc040717117f5803e8ca0911f5b552b1149f7545f7760d26406fb219376f7fd429c678783a62c6f52891c62adc3742438b8ecb124)
+
++ITZY의 메인보컬을 맡고 있다. 멤버들 추천, 솔로곡을 제일 듣고 싶어하는 멤버 1순위라고 할정도로, 음색이 굉장히 독특하고 매력적이다. 중저음의 음색의 예지, 하이톤인 유나와 다른 매력적인 음색을 가졌다. 목소리가 타 멤버들에 비해 통통 튀면서도 발성이 가볍다.
+
+### 류진
+
+![류진](https://ww.namu.la/s/2404692c489906690a5749d847a5fb86bf91b226608c1656bd5e59a528545e71694f008ea9290dba3624655ce722c04d52975a89a0e3399d326bd456f7e906be19d327bcb54e7e7142083d68af2d7a3bbd6981ab85da1d07580abd5a1e32db53ee3d60fbaa72869105f4e4550d2cdfb8)
+
++ITZY의 메인래퍼를 맡고 있다. 멤버들이 인정한 팀내 가장 멋있는 목소리를 가지고 있다. ICY에서 중저음 톤으로 랩을 소화했다, 노래를 듣고 있을때 '류진이다' 라고 할 정도로 독특한 목소리를 지니고 있다. 이러한 중저음/깨끗한 음색으로 하는 랩이 외국 케이팝 팬들에게 꽤 신선하게 들린다는 평이 많다.
+
+### 채령
+
+![채령](https://ww.namu.la/s/e5a949b7f5e1bab3c91c9c254c0ae384a4e40fe4cc31e3dd2dcdd3721eb873c5c7437afbda2532d04f74a88164cee9f9b056c3e645458824f990590661b8a699afe3566394e022330ad8d7feacb2a6715bd6319f665a46a29c186fcd05b4c2d8b9bc319fa2390f64e3f7513f618dc66d)
+
++일반인 시절 부터 데뷔 후 지금까지 언제나 춤으로 박진영에게 인정 받아왔던 상당한 실력자여서 팀 내에서 퍼포먼스 카리스마를 담당하고 있다. 데뷔 이후에도 ITZY의 전체적인 퍼포먼스를 가장 잘 소화 해내고 있다. 채령은 댄스 동작 하나 하나에 담긴 표현과 선을 가장 아름답게 살린다. 춤출때 머리카락을 활용하여 춤선이 섬세하고 매우 화려하다. 오랜 연습생 내공일수도 있으나, 신체가 굉장히 유연하다. 특히, 허리, 골반을 이용한 춤이 아주 뛰어나다. 노래의 리듬감을 표현하는 능력은 단연 압권. 그래서 채령의 이러한 통통튀는 춤선을 좋아하는 사람이 많다.[19] 춤선이 부드럽고 날렵하면서도 흘려 보내거나 스킵하는 동작없이 정확하고 깔끔하게 보인다.
+
+### 유나
+
+![유나](https://w.namu.la/s/a6686e45613f38ae580a2b969ab5edf37465c289ada329372a1b30ffc7d2836b9f0a34ad1af3303d3ecf47e27ee9dadb11047e4c79a5d7ac51d69c0ab03266634b02c571d20c1102edd10085ca461a9bef7e5a8eaf7fa50fc7ea68f654463b7a4e7192ad93b99de41bd69631382afa84)
+
++막내다운 발랄함과 애교로 언니들의 사랑을 듬뿍 받으면서 ITZY만의 활기차고 당당하며 내 자신을 사랑하는, 틴 크러쉬 이미지를 형성하는데 큰 기여를 하고 있다. 키가 굉장히 크고, 비율 성애자라고 불리는 JYP 특성 때문인지 키와 신체 비율 모두 완벽해서, 춤출 때 동작이 굉장히 시원시원하고 아름답다. 또한 운동의 영향인지, 힘이 있고 날리는 동작없이 정확하며 칼각이라는 말도 듣는다. 그래서 공식 포지션이 메인댄서가 아님에도 뛰어나게 잘 춘다고 평가받는다.
